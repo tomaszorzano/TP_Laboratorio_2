@@ -1,0 +1,13 @@
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\EntidadesInstanciadas.dll
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\EntidadesInstanciadas.pdb
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Archivos.dll
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Entidades Abstractas.dll
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Excepciones.dll
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Archivos.pdb
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Entidades Abstractas.pdb
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\bin\Debug\Excepciones.pdb
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\obj\Debug\EntidadesInstanciadas.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\obj\Debug\EntidadesInstanciadas.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\obj\Debug\EntidadesInstanciadas.csproj.CopyComplete
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\obj\Debug\EntidadesInstanciadas.dll
+C:\Users\tomi_\source\repos\TP-03\EntidadesInstanciadas\obj\Debug\EntidadesInstanciadas.pdb

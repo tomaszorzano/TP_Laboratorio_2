@@ -1,0 +1,12 @@
+C:\Users\Camila\source\repos\Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Camila\source\repos\Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Camila\source\repos\Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Camila\source\repos\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Camila\source\repos\Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,16 @@
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\TP-03.exe.config
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\TP-03.exe
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\TP-03.pdb
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Archivos.dll
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Entidades Abstractas.dll
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\EntidadesInstanciadas.dll
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Excepciones.dll
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Archivos.pdb
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Entidades Abstractas.pdb
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\EntidadesInstanciadas.pdb
+C:\Users\tomi_\source\repos\TP-03\TP-03\bin\Debug\Excepciones.pdb
+C:\Users\tomi_\source\repos\TP-03\TP-03\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\TP-03\TP-03\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\TP-03\TP-03\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\tomi_\source\repos\TP-03\TP-03\obj\Debug\TP-03.exe
+C:\Users\tomi_\source\repos\TP-03\TP-03\obj\Debug\TP-03.pdb

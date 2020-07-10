@@ -1,0 +1,13 @@
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\bin\Debug\Entidades.pdb
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.Frm.resources
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\tomi_\source\repos\TP-04\FrmPpal\obj\Debug\FrmPpal.pdb

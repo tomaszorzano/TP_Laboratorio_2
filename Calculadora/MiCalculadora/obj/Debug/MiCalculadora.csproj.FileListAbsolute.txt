@@ -1,0 +1,13 @@
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Camila\Documents\GitHub\TP_Laboratorio_02\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
